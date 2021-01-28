@@ -148,19 +148,19 @@ img {
   min-height: calc(100vh - 67.813px);
 }
 #login .box {
-  width: 50vw;
-  height: 50vh;
+  width: 40vw;
+  height: 40vh;
   background: white;
   border-radius: 10px;
   display: flex;
   box-shadow: 3px 2px 12px 0px #000;
 }
 #login img {
-  flex-basis: 40%;
+  flex-basis: 30%;
   border-radius: 10px 0 0 10px;
 }
 #login form {
-  flex-basis: 60%;
+  flex-basis: 70%;
   padding: 50px 30px;
   display: flex;
   flex-wrap: wrap;
